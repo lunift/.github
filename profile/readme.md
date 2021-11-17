@@ -1,4 +1,4 @@
-<img src="https://www.lunift.cf/images/tn.png">
+<img src="http://www.lunift.cf/images/tn.png">
 <h1 align="center">Lunift</h1>
 
 <h3>At Lunift...</h3>
