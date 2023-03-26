@@ -1,4 +1,4 @@
-<img src="http://www.lunift.cf/images/tn.png">
+<img src="http://lunift.github.io/images/tn.png">
 <h1 align="center">Lunift</h1>
 
 <h3>At Lunift...</h3>
@@ -17,4 +17,4 @@
 
 <hr/>
 <h1 align="center">Want to contribute?</h1>
-<h3>No problem! It's really simple. Just email <a href="mailto:lunift@pm.me">Lunift</a> and we'll review your application as soon as possible!</h3>
+<h3>No problem! It's really simple. Just let me know on Discord. 1ens#8877</h3>
